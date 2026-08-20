@@ -1,0 +1,11 @@
+E:\Descargas\LicenciaturaSistemas\PROYECTOSvisualStudio\Practico_3\Practico_3\bin\Debug\Practico_3.exe.config
+E:\Descargas\LicenciaturaSistemas\PROYECTOSvisualStudio\Practico_3\Practico_3\bin\Debug\Practico_3.exe
+E:\Descargas\LicenciaturaSistemas\PROYECTOSvisualStudio\Practico_3\Practico_3\bin\Debug\Practico_3.pdb
+E:\Descargas\LicenciaturaSistemas\PROYECTOSvisualStudio\Practico_3\Practico_3\obj\Debug\Practico_3.csproj.AssemblyReference.cache
+E:\Descargas\LicenciaturaSistemas\PROYECTOSvisualStudio\Practico_3\Practico_3\obj\Debug\Practico_3.Form1.resources
+E:\Descargas\LicenciaturaSistemas\PROYECTOSvisualStudio\Practico_3\Practico_3\obj\Debug\Practico_3.Properties.Resources.resources
+E:\Descargas\LicenciaturaSistemas\PROYECTOSvisualStudio\Practico_3\Practico_3\obj\Debug\Practico_3.csproj.GenerateResource.cache
+E:\Descargas\LicenciaturaSistemas\PROYECTOSvisualStudio\Practico_3\Practico_3\obj\Debug\Practico_3.csproj.CoreCompileInputs.cache
+E:\Descargas\LicenciaturaSistemas\PROYECTOSvisualStudio\Practico_3\Practico_3\obj\Debug\Practico_3.exe
+E:\Descargas\LicenciaturaSistemas\PROYECTOSvisualStudio\Practico_3\Practico_3\obj\Debug\Practico_3.pdb
+E:\Descargas\LicenciaturaSistemas\PROYECTOSvisualStudio\Practico_3\Practico_3\obj\Debug\Practico_3.MDIParent1.resources
